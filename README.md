@@ -1,5 +1,5 @@
-# adaptive_optics
- Final code for Muhamad Jaafar, 22208208, Thesis
+# Authorship
+ Final thesis code for Muhamad Jaafar. Student Number: 22208208. 
 
 # Requried packages
  astroquery
